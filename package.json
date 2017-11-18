@@ -1,0 +1,12 @@
+{
+  "name": "jsdictionary",
+  "version": "1.0.0",
+  "description": "A dictionary implementation for javascript",
+  "main": "index.js",
+  "scripts": { "test": "jasmine" },
+  "author": "davidrbourke@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
